@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #323131;
+}
+
+.logo {
+    width: 100%;
+    border: 10px solid #ffe313;
+    margin: 0 auto 2rem auto;
+    display: block;
+}
+
+body {
+    margin: 6rem auto;
+    width: 50rem;
+    font-family: 'Signika', georgia;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #ffffff;
+}
+
+h2 {
+    color: #fff0ac;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin-bottom: 0.3rem;
+    text-shadow: 3px 2px 4px #000000;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+a {
+    color: #ffe313
+}
+
+a:hover {
+    color: #fff0ac;
+}
+
+.otr {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff0ac;
+    font-size: 1rem;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    align-items: stretch;
+}
+
+nav li {
+    flex-grow: 1;
+    text-align: center;
+    width: 0;
+}
+
+.nav--what    { background-color: #BF344D; }
+.nav--where   { background-color: #732944; }
+.nav--suggest { background-color: #BFA10A; color: #000000; }
+.nav--past    { background-color: #D9BCA3; color: #000000; }
+.nav--about   { background-color: #BF391B; }
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+    padding: 0.5rem 0;
+}
+
+nav a:hover {
+    background-color: #fff0ac;
+    color: #000000;
+}
+
+.nav--suggest a,
+.nav--past a {
+    color: #000000;
+}
+
+aside {
+    float: left;
+    width: 40%;
+    padding-right: 2rem;
+}
+
+article {
+    float: left;
+    width: 60%;
+}
+
+
+
+.bulleted li {
+    list-style-type: square;
+    margin: 0 0 1rem 1rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+    color: #D9BCA3;
+    border-bottom: 1px dotted #D9BCA3;
+    margin-bottom: 0.3rem;
+    padding-bottom: 0.3rem;
+}
