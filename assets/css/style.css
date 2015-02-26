@@ -281,6 +281,13 @@ img {
     display: none;
 }
 
+.toggler {
+    text-decoration: underline;
+    color: #C5C5EF;
+    font-weight: 100;
+    cursor: pointer;
+}
+
 .has-voted .js-vote {
     display: none !important;
 }
