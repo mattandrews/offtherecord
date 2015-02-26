@@ -249,6 +249,17 @@ img {
     display: inline-block;
 }
 
+.float-left {
+    float: left;
+    margin-right: 1rem;
+}
+
+
+.float-right {
+    float: right;
+    margin-left: 1rem;
+}
+
 .percentage {
   width: 40%;
   background-color: #000000;
