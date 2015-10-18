@@ -155,6 +155,11 @@ h6 {
 .teaser--pre-launch:before {
     content: "Cool - then:";
 }
+
+.album-teaser {
+    margin-bottom: 10px;
+}
+
 .hide-text {
     text-indent: 100%;
     white-space: nowrap;
@@ -379,3 +384,29 @@ img {
         max-width: 50rem;
     }
 }
+
+
+.record-list {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    opacity: 0.7;
+}
+
+.record-list strong {
+    font-weight: bold;
+}
+
+
+.cf:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.cf { display: inline-block; }
+/* start commented backslash hack \*/
+* html .cf { height: 1%; }
+.cf { display: block; }
+/* close commented backslash hack */
