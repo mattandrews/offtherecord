@@ -471,6 +471,11 @@ img {
     display: inline-block;
 }
 
+small {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
 /* start commented backslash hack \*/
 * html .cf {
     height: 1%;
