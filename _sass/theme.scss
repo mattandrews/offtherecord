@@ -1,3 +1,5 @@
+@import 'reset';
+
 * {
     box-sizing: border-box;
 }
@@ -213,11 +215,11 @@ h6 {
     padding-bottom: 1.5rem;
 }
 
-.wrapper:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
+//.wrapper:last-child {
+//    border-bottom: none;
+//    padding-bottom: 0;
+//    margin-bottom: 0;
+//}
 
 footer {
     color: #cccccc;

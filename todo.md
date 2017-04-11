@@ -1,2 +1,0 @@
-- way to add event listings (manually?!)
-- photos
