@@ -1,0 +1,4 @@
+<img src="{{ include.record.cover_image | absolute_url }}" />
+{% if include.record.cover_caption %}
+    <p class="caption">{{ include.record.cover_caption }}</p>
+{% endif %}

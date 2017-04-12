@@ -12,6 +12,16 @@ layout: default
                 &bull; More info soon...
             </p>
 
+            <a href="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}">
+                <img src="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}" />
+            </a>
+            <p>Off The Record #7</p>
+
+            <a href="{{ "/assets/img/otr_8_smaller.jpg" | absolute_url }}">
+                <img src="{{ "/assets/img/otr_8_smaller.jpg" | absolute_url }}" />
+            </a>
+            <p>Off The Record #8</p>
+
             <!--<a class="cta block" href="https://off-the-record-9.eventbrite.com">Get tickets for meetup #9 &ndash; "Introducing"</a>-->
 
             <!--<p class="teaser block">-->
@@ -64,11 +74,28 @@ layout: default
 
 <div class="wrapper">
     <h2 id="past">Past Events</h2>
-    <ul>
+    <ul class="event-list">
         {% for post in site.posts %}
-            <li class="cf" id="event9">
-                #{{ post.number }}: <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape
-                }}</a>: {{ post.artist_name }} &ndash; <em>{{ post.album_name }}</em> ({{ post.year }})
+            <li>
+
+                <div class="event-list__cover">
+                    <a href="{{ post.url | relative_url }}">
+                        {% if post.multi_record %}
+                            {% for r in post.records %}
+                                {% if forloop.first %}
+                                    <img src="{{ r.cover_image | absolute_url }}" />
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                            <img src="{{ post.cover_image | absolute_url }}" />
+                        {% endif %}
+                    </a>
+                </div>
+
+                #{{ post.number }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape
+                }}</a><br />
+                {% include record_title.html record=post %}<br/>
+                <small>{{ post.date | date_to_string }}</small>
             </li>
         {% endfor %}
     </ul>

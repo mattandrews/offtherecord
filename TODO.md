@@ -1,0 +1,6 @@
+- make sub-pages for guidelines, about
+- make homepage dynamic
+- restyle some aspects (type)
+- add ability to spotify embed
+- change top menu to include logo
+- fix about page

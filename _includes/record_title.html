@@ -1,0 +1,8 @@
+{% if include.record.multi_record %}
+    {% for r in include.record.records %}
+        {{ r.artist_name }} &ndash; <em>{{ r.album_name }}</em> ({{ r.year }})
+        {% if forloop.last == false %} <span class="ampersand">&amp;</span> {% endif %}
+    {% endfor %}
+{% else %}
+    {{ include.record.artist_name }} &ndash; <em>{{ include.record.album_name }}</em> ({{ include.record.year }})
+{% endif %}

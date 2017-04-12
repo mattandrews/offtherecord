@@ -6,29 +6,19 @@ layout: default
     <h3 class="record-list">
         {% if page.multi_record %}
             <strong>Records:</strong>
-            {% for r in page.records %}
-                {{ r.artist_name }} &ndash; <em>{{ r.album_name }}</em> {% if forloop.last == false %} &amp; {% endif %}
-            {% endfor %}
         {% else %}
-            <strong>Record:</strong> {{ page.artist_name }} &ndash; <em>{{ page.album_name }}</em>
+            <strong>Record:</strong>
         {% endif %}
+        {% include record_title.html record=page %}
     </h3>
 
     <aside>
         {% if page.multi_record %}
             {% for r in page.records %}
-                <!-- @TODO make this an include -->
-                <!-- https://jekyllrb.com/docs/includes/ -->
-                <img src="{{ r.cover_image | absolute_url }}" />
-                {% if r.cover_caption %}
-                    <p class="caption">{{ r.cover_caption }}</p>
-                {% endif %}
+                {% include cover_art.html record=r %}
             {% endfor %}
         {% else %}
-            <img src="{{ page.cover_image | absolute_url }}" />
-            {% if page.cover_caption %}
-                <p class="caption">{{ page.cover_caption }}</p>
-            {% endif %}
+        {% include cover_art.html record=page %}
         {% endif %}
     </aside>
     <article class="post">
