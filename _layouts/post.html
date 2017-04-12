@@ -2,5 +2,41 @@
 layout: default
 ---
 <div class="wrapper">
-    {{ content }}
+    <h2>Event #{{ page.number }}: {{ page.title }} &bull; {{ page.date | date_to_string }}</h2>
+    <h3 class="record-list">
+        {% if page.multi_record %}
+            <strong>Records:</strong>
+            {% for r in page.records %}
+                {{ r.artist_name }} &ndash; <em>{{ r.album_name }}</em> {% if forloop.last == false %} &amp; {% endif %}
+            {% endfor %}
+        {% else %}
+            <strong>Record:</strong> {{ page.artist_name }} &ndash; <em>{{ page.album_name }}</em>
+        {% endif %}
+    </h3>
+
+
+    <aside>
+        {% if page.multi_record %}
+            {% for r in page.records %}
+                <img src="{{ r.cover_image | absolute_url }}" />
+                {% if r.cover_caption %}
+                    <p class="caption">{{ r.cover_caption }}</p>
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            <img src="{{ page.cover_image | absolute_url }}" />
+            {% if page.cover_caption %}
+                <p class="caption">{{ page.cover_caption }}</p>
+            {% endif %}
+        {% endif %}
+    </aside>
+    <article class="post">
+        {% if page.thumbnail %}
+            {% if page.photo %}<a href="{{ page.photo | absolute_url }}">{% endif %}
+                <img src="{{ page.thumbnail | absolute_url }}" width="180" class="float-right" />
+            {% if page.photo %}</a>{% endif %}
+        {% endif %}
+
+        {{ content }}
+    </article>
 </div>

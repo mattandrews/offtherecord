@@ -67,7 +67,8 @@ layout: default
     <ul>
         {% for post in site.posts %}
             <li class="cf" id="event9">
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                #{{ post.number }}: <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape
+                }}</a>
             </li>
         {% endfor %}
     </ul>

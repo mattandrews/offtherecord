@@ -109,11 +109,13 @@ nav a:hover {
     color: #000000;
 }
 
-.bulleted {
+.bulleted,
+.post ul {
     margin: 0 0 1rem 0;
 }
 
-.bulleted li {
+.bulleted li,
+.post li {
     list-style-type: square;
     margin: 0 0 1rem 1rem;
 }
