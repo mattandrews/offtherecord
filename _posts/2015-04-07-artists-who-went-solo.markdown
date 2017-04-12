@@ -8,6 +8,7 @@ artist_name: "Morrissey"
 album_name: "Viva Hate"
 cover_image: "assets/img/records/moz.jpg"
 cover_caption: "Morrissey's solo debut"
+year: 1988
 photo: "assets/img/otr2.jpg"
 thumbnail: "assets/img/otr2.jpg"
 ---

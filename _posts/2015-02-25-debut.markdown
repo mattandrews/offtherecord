@@ -10,10 +10,12 @@ records:
     album_name: "My Aim Is True"
     cover_image: "assets/img/records/event1/elvis.jpg"
     cover_caption: "Elvis Costello's debut"
+    year: 1977
   - artist_name: "The Tallest Man On Earth"
     album_name: "Shallow Grave"
     cover_image: "assets/img/records/event1/tallest.jpg"
     cover_caption: "The Tallest Man On Earth's debut"
+    year: 2008
 photo: "assets/img/otr1.png"
 thumbnail: "assets/img/otr1.png"
 ---

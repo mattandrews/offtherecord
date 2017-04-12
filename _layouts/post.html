@@ -14,10 +14,11 @@ layout: default
         {% endif %}
     </h3>
 
-
     <aside>
         {% if page.multi_record %}
             {% for r in page.records %}
+                <!-- @TODO make this an include -->
+                <!-- https://jekyllrb.com/docs/includes/ -->
                 <img src="{{ r.cover_image | absolute_url }}" />
                 {% if r.cover_caption %}
                     <p class="caption">{{ r.cover_caption }}</p>

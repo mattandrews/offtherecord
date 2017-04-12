@@ -8,6 +8,7 @@ artist_name: "Say Anything"
 album_name: "...Is A Real Boy"
 cover_image: "assets/img/sayanything.jpg"
 cover_caption: "The hour-long rock opera epic"
+year: 2004
 ---
 
 Local pop-punk aficionado Joe Bell hosted this edition of OTR and we listened to the longest album so far &ndash; quite an achievement. Most of us hadn't heard Say Anything before and reactions were mixed. Their second album, it was originally intended to be a rock opera, but frontman/main songwriter Max Bemis suffered a mental breakdown during recording and part of the concept was scrapped. It's considered a masterpiece of the pop/punk/emo/indie genre today and is 57:55 long – pushing the boundaries for the genre. 

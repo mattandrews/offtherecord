@@ -8,6 +8,7 @@ artist_name: "Charles Mingus"
 album_name: "Blues & Roots"
 cover_image: "assets/img/records/mingus.jpg"
 cover_caption: "A diversion into blues and other early favourites from jazz legend Mingus"
+year: 1960
 photo: "assets/img/otr_9.jpg"
 thumbnail: "assets/img/otr_9_smaller.jpg"
 ---

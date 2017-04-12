@@ -8,6 +8,7 @@ artist_name: "The Phenomenauts"
 album_name: "For All Mankind"
 cover_image: "assets/img/records/phenom.jpg"
 cover_caption: "Punk rock, rock'n'roll and space. What better combination is there?"
+year: 2008
 photo: "assets/img/otr_8.jpg"
 thumbnail: "assets/img/otr_8_smaller.jpg"
 ---

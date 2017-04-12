@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37387850-ae83-4626-b125-74a5b9269ec6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-21-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/offtherecord.iml" afterPath="$PROJECT_DIR$/.idea/offtherecord.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/reset.scss" afterPath="$PROJECT_DIR$/_sass/reset.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/theme.scss" afterPath="$PROJECT_DIR$/_sass/theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-25-debut.markdown" afterPath="$PROJECT_DIR$/_posts/2015-02-25-debut.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown" afterPath="$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown" afterPath="$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-14-cult-failures.markdown" afterPath="$PROJECT_DIR$/_posts/2016-09-14-cult-failures.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown" afterPath="$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown" afterPath="$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown" afterPath="$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown" afterPath="$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown" afterPath="$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown" />
     </list>
     <ignored path="offtherecord.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,28 +32,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2015-02-25-debut.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-02-25-debut.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="322">
-                <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="70" column="103" lean-forward="false" selection-start-line="70" selection-start-column="103" selection-end-line="70" selection-end-column="103" />
+              <folding>
+                <element signature="e#3845#3852#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="9" column="108" lean-forward="false" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
-              <folding>
-                <element signature="e#97#103#0" expanded="true" />
-                <element signature="e#387#392#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="2017-03-23-introducing.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="253">
+                <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -80,18 +82,18 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-21-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-04-21-introducing.markdown" />
         <option value="$PROJECT_DIR$/_sass/theme.scss" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown" />
         <option value="$PROJECT_DIR$/_sass/reset.scss" />
-        <option value="$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2016-09-14-cult-failures.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown" />
-        <option value="$PROJECT_DIR$/_layouts/home.html" />
-        <option value="$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-02-25-debut.markdown" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2015-02-25-debut.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-09-14-cult-failures.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-23-introducing.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
       </list>
     </option>
   </component>
@@ -190,7 +192,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,7 +324,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18000000" />
+    <option name="totallyTimeSpent" value="19083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,14 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10948">
-          <caret line="476" column="1" lean-forward="false" selection-start-line="476" selection-start-column="1" selection-end-line="476" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -541,14 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -605,33 +591,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown">
+    <entry file="file://$PROJECT_DIR$/old/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="422" column="78" lean-forward="true" selection-start-line="326" selection-start-column="12" selection-end-line="422" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="e#97#103#0" expanded="true" />
+            <element signature="e#320#327#0" expanded="true" />
+            <element signature="e#387#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-25-debut.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <first_editor relative-caret-position="343">
+            <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="598">
-            <caret line="20" column="375" lean-forward="false" selection-start-line="20" selection-start-column="375" selection-end-line="20" selection-end-column="375" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <first_editor relative-caret-position="198">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -641,8 +663,52 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-14-cult-failures.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-word-of-mouth.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-26-genre-mashups.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-world-building.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -658,8 +724,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="9" column="89" lean-forward="false" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+          <first_editor relative-caret-position="253">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -668,71 +734,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="69" column="17" lean-forward="false" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-11-re-runs.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="290">
-            <caret line="14" column="115" lean-forward="true" selection-start-line="14" selection-start-column="115" selection-end-line="14" selection-end-column="117" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-04-07-artists-who-went-solo.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="322">
-            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2240">
-          <caret line="422" column="78" lean-forward="true" selection-start-line="326" selection-start-column="12" selection-end-line="422" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-25-suffering-for-art.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-25-debut.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="322">
-            <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="9" column="108" lean-forward="false" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
+        <state relative-caret-position="470">
+          <caret line="70" column="103" lean-forward="false" selection-start-line="70" selection-start-column="103" selection-end-line="70" selection-end-column="103" />
           <folding>
-            <element signature="e#97#103#0" expanded="true" />
-            <element signature="e#387#392#0" expanded="true" />
+            <element signature="e#3845#3852#0" expanded="true" />
           </folding>
         </state>
       </provider>

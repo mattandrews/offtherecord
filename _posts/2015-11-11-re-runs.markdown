@@ -8,6 +8,7 @@ artist_name: "Townes Van Zandt"
 album_name: "Townes Van Zandt"
 cover_image: "assets/img/records/townes.jpg"
 cover_caption: "Townes van Zandt's third album."
+year: 1968
 photo: "assets/img/3/otr3.jpg"
 thumbnail: "assets/img/3/otr3_small.jpg"
 ---

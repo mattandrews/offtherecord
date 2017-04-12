@@ -8,6 +8,7 @@ artist_name: "Big Star"
 album_name: "Radio City"
 cover_image: "assets/img/records/radiocity.jpg"
 cover_caption: "Our last-minute album change!"
+year: 1972
 ---
 
 Well... it took a while, but we had a followup to last year's first Birmingham-based Off The Record! Calum Mayer hosted the session and initially chose Big Star's ambitiously-titled *Number 1 Record*, their debut album released in 1972. The US power-pop group recorded the album after being hugely inspired by the Beatles, but it sold less than 10,000 copies due to poor distribution and the band fractured. The theme he chose was "Cult Failures", which was fine &ndash; but then Calum texted me the evening before the event to suggest a last-minute change to the followup album, *Radio City*.

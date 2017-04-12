@@ -8,6 +8,7 @@ artist_name: "My Bloody Valentine"
 album_name: "Loveless"
 cover_image: "assets/img/records/loveless.jpg"
 cover_caption: "Multi-layered, challenging and beautiful"
+year: 1991
 ---
 Our last event of 2016 was curated by Andrea Breau, Birmingham-based comms professional and full-on music geek. She was keen to explore how "the way something has been described to you in written format has inspired your ears - as it were".
     

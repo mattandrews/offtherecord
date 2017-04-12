@@ -8,6 +8,7 @@ artist_name: "Bran Van 3000"
 album_name: "Glee"
 cover_image: "assets/img/records/branvan.jpg"
 cover_caption: "Wide-ranging, experimental and playful"
+year: 1997
 photo: "assets/img/otr7.jpg"
 thumbnail: "assets/img/otr7_smaller.jpg"
 ---
