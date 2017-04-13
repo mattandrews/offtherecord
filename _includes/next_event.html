@@ -1,0 +1,12 @@
+<a class="cta block" href="{{ include.next.link }}">Get tickets for meetup #{{ include.next.number }} &ndash; {{
+    include.next.title}}</a>
+
+<p class="teaser block">
+    &bull; {{ include.next.date | date_to_string }}<br/>
+    &bull; {{ include.next.location }}<br/>
+    &bull; FREE! <a href="{{ include.next.link }}">Get tickets here</a>
+</p>
+<h5>Next album:</h5>
+<a href="{{ include.next.link }}"><img src="{{ include.next.cover | absolute_url }}" /></a>
+<p class="album-teaser">{{ include.next.artist }} &ndash; {{ include.next.album }} ({{ include.next.year }})</p>
+<p class="caption">{{ include.next.desc }}</p>

@@ -6,11 +6,12 @@ layout: default
     <aside>
         <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="logo"/>
         <div class="center">
-            <a class="cta block" href="#">Event #10 coming soon</a>
-            <p class="teaser block">
-                &bull; 7pm, Thursday 27th April 2017<br/>
-                &bull; More info soon...
-            </p>
+
+            {% if page.next.active %}
+                {% include next_event.html next=page.next%}
+            {% else %}
+                <a class="cta block" href="#">Next event coming soon</a><br />
+            {% endif %}
 
             <a href="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}">
                 <img src="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}" />
@@ -22,18 +23,6 @@ layout: default
             </a>
             <p>Off The Record #8</p>
 
-            <!--<a class="cta block" href="https://off-the-record-9.eventbrite.com">Get tickets for meetup #9 &ndash; "Introducing"</a>-->
-
-            <!--<p class="teaser block">-->
-            <!--&bull; 7pm, Thursday 23rd March 2017<br/>-->
-            <!--&bull; Birmingham (Cherry Reds)<br/>-->
-            <!--&bull; FREE! <a href="https://off-the-record-9.eventbrite.com">Get tickets here</a>-->
-            <!--</p>-->
-            <!--<h5>Next album:</h5>-->
-            <!--<a href="https://off-the-record-9.eventbrite.com"><img src="assets/img/records/mingus.jpg"/></a>-->
-            <!--<p class="album-teaser">Charles Mingus &ndash; Blues &amp; Roots (1960)</p>-->
-            <!--<p class="caption">This event we’ll be following the theme Introducing – an album (or songs) you would pick to introduce someone to a genre, type, or era of music.-->
-            <!--</p>-->
         </div>
     </aside>
 
