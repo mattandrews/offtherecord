@@ -1,9 +1,15 @@
-<nav>
-    <ul>
-        <li><a href="#what" class="nav--what nav--selected">What is it?</a></li>
-        <li><a href="#where" class="nav--where">Where &amp; when</a></li>
-        <li><a href="#suggest" class="nav--suggest">Suggest a record</a></li>
-        <li><a href="#past" class="nav--past">Past events</a></li>
-        <li><a href="#about" class="nav--about">About</a></li>
+<header>
+    <a href="/"><img src="{{ "/assets/img/logo-new.png" | absolute_url }}" class="logo"></a>
+    <ul class="nav">
+        <li {% if page.url == "/" %} class="current"{% endif %}><a href="/">Home</a></li>
+        {% for item in site.navigation %}
+            {% assign class = nil %}
+                {% if page.url contains item.url %}
+                    {% assign class = 'current' %}
+                {% endif %}
+            <li class="{{ class }}">
+                <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+        {% endfor %}
     </ul>
-</nav>
+</header>

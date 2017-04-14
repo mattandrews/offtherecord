@@ -1,17 +1,10 @@
 ---
 layout: default
 ---
-<div class="wrapper">
-    <h2>Event #{{ page.number }}: {{ page.title }} &bull; {{ page.date | date_to_string }}</h2>
-    <h3 class="record-list">
-        {% if page.multi_record %}
-            <strong>Records:</strong>
-        {% else %}
-            <strong>Record:</strong>
-        {% endif %}
-        {% include record_title.html record=page %}
-    </h3>
+<h1>Event #{{ page.number }}: {{ page.title }} <span>{{ page.date | date_to_string }}</span></h1>
+<h2 class="record-list">{% include record_title.html record=page %}</h2>
 
+<section>
     <aside>
         {% if page.multi_record %}
             {% for r in page.records %}
@@ -30,4 +23,4 @@ layout: default
 
         {{ content }}
     </article>
-</div>
+</section>

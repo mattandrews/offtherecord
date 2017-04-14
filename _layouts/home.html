@@ -2,33 +2,24 @@
 layout: default
 ---
 
-<div class="wrapper">
+<section>
     <aside>
-        <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="logo"/>
-        <div class="center">
+        {% if page.next.active %}
+            {% include next_event.html next=page.next%}
+        {% else %}
+            <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="next-event" />
+            <a class="cta block" href="#">Next event: coming soon!</a><br />
+        {% endif %}
 
-            {% if page.next.active %}
-                {% include next_event.html next=page.next%}
-            {% else %}
-                <a class="cta block" href="#">Next event coming soon</a><br />
-            {% endif %}
-
-            <a href="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}">
-                <img src="{{ "/assets/img/otr7_smaller.jpg" | absolute_url }}" />
-            </a>
-            <p>Off The Record #7</p>
-
-            <a href="{{ "/assets/img/otr_8_smaller.jpg" | absolute_url }}">
-                <img src="{{ "/assets/img/otr_8_smaller.jpg" | absolute_url }}" />
-            </a>
-            <p>Off The Record #8</p>
-
-        </div>
+        <a href="{{ "/assets/img/otr_9.jpg" | absolute_url }}">
+            <img src="{{ "/assets/img/otr_9.jpg" | absolute_url }}" />
+        </a>
+        <p class="caption">A photo of the group from Off The Record #9</p>
     </aside>
 
     <article>
 
-        <h1>Off The Record <br/>Birmingham Music Meetup</h1>
+        <h1>Off The Record <span>Birmingham Music Meetup</span></h1>
 
         <h2 id="what">What's a record club?</h2>
         <p><span class="otr">Off The Record</span> is a monthly event where a bunch of music-loving people get together
@@ -43,7 +34,7 @@ layout: default
             free – if you like music and food/drinks, you are super welcome.</p>
 
         <h2 id="suggest" class="header">Got a record to suggest?</h2>
-        <p>Cool &ndash; we have <a href="#guidelines">some guidelines on hosting a playback / discussion</a> below. Have
+        <p>Cool &ndash; we have <a href="/guidelines">some guidelines on hosting a playback / discussion</a> below. Have
             a read and you'll eventually be able to submit your record suggestion where people can vote for it for an
             upcoming <span class="otr">Off The Record</span> session. Or if you really can't wait, <a
                     href="mailto:matt@mattandrews.info">email Matt</a> with your nominations.</p>
@@ -56,78 +47,40 @@ layout: default
             events.</p>
 
         <h2>Okay, I'm convinced, what next?</h2>
-        <p>Great. <a href="https://off-the-record-9.eventbrite.co.uk/">Sign up to attend here</a>!</p>
+        {% if page.next.active %}
+            <p>Great. <a href="{{ page.next.link }}">Sign up to attend here</a>!</p>
+        {% else %}
+            <p>Great! Keep your eyes peeled for our next event &ndash; it'll be announced shortly.</p>
+        {% endif %}
 
     </article>
-</div>
+</section>
 
-<div class="wrapper">
-    <h2 id="past">Past Events</h2>
-    <ul class="event-list">
-        {% for post in site.posts %}
-            <li>
-
-                <div class="event-list__cover">
-                    <a href="{{ post.url | relative_url }}">
-                        {% if post.multi_record %}
-                            {% for r in post.records %}
-                                {% if forloop.first %}
-                                    <img src="{{ r.cover_image | absolute_url }}" />
-                                {% endif %}
-                            {% endfor %}
-                        {% else %}
-                            <img src="{{ post.cover_image | absolute_url }}" />
-                        {% endif %}
-                    </a>
-                </div>
-
-                #{{ post.number }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape
-                }}</a><br />
-                {% include record_title.html record=post %}<br/>
-                <small>{{ post.date | date_to_string }}</small>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
-
-<div class="wrapper">
-
-    <h2 id="guidelines">Session Guidelines</h2>
-    <ul class="bulleted">
-        <li>Sessions will cover two albums maximum, although I've found one works best (plus some singles!). If you want
-            to run a session (please do!), think about a theme which will encourage other people to contribute: you can
-            play the main album, but we want other people to bring songs/singles which complement it.
-        </li>
-
-        <li>It might be good to come pre-prepared with some talking points about your nominations, for example: what do
-            you think of the lyrics to "Ziggy Stardust"? How does the guitar interplay with the other instruments? Was
-            the producer on vacation for the final two songs?! Write down a few notes to get things moving so we can
-            chat after we're done listening.
-        </li>
-
-        <li>If you were going to introduce an open-minded newbie to a favourite genre or artist, what albums would you
-            pick? Think about how they'll come across to a new listener and contextualise them: before playing them, you
-            could say a few words to talk about the social climate or musical landscape the album was recorded and
-            released in. This is about appreciating music and learning why it's so great.
-        </li>
-    </ul>
-
-</div>
-<div class="wrapper">
-    <aside>
-        <a href="http://www.scenepointblank.com/book">
-            <img src="{{ "/assets/img/matt2.jpg" | relative_url }}" alt="Matt Andrews"/>
-        </a>
-        <p class="caption">Matt Andrews, your humble organiser</p>
-    </aside>
+<section>
     <article>
-        <h2 id="about">Who's behind this?</h2>
-        <p><span class="otr">Off The Record</span> is an experimental project by <a href="http://mattandrews.info">Matt
-            Andrews</a>, a music loving web developer. While it's far from the first event of its kind, we wanted to
-            create something where people could make time for good music and hear people talk passionately about why
-            it's great.</p>
-        <p>I moved from London to Birmingham in June 2015 and have restarted <span class="otr">Off The Record</span> in
-            my new home city. I'm excited to see what the home of metal can bring to our little event, although we're
-            unlikely to play any Sabbath (sorry, Ozzy).</p>
+        <h2 id="past">Past Events</h2>
+        <ul class="event-list">
+            {% for post in site.posts %}
+                <li>
+                    <div class="event-list__cover">
+                        <a href="{{ post.url | relative_url }}">
+                            {% if post.multi_record %}
+                                {% for r in post.records %}
+                                    {% if forloop.first %}
+                                        <img src="{{ r.cover_image | absolute_url }}" />
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                <img src="{{ post.cover_image | absolute_url }}" />
+                            {% endif %}
+                        </a>
+                    </div>
+                    <h5>#{{ post.number }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape
+                    }}</a></h5>
+                    <h6>{% include record_title.html record=post %}</h6>
+                    <small>{{ post.date | date_to_string }}</small>
+                </li>
+            {% endfor %}
+        </ul>
     </article>
-</div>
+</section>

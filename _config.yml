@@ -32,3 +32,9 @@ exclude:
   - Gemfile.lock
 
 permalink: /:year/:month/:title.html
+
+navigation:
+  - title: About
+    url: /about/
+  - title: Host a session
+    url: /guidelines/
