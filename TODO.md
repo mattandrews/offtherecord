@@ -1,5 +1,3 @@
-- change top menu to include logo
-- make sub-pages for guidelines, about
-- fix about page
-- restyle some aspects (type)
+- add a deploy script (shipit? fabric?)
 - add ability to spotify embed
+- add social media icons/feeds/buttons?

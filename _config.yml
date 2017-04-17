@@ -27,6 +27,7 @@ markdown: kramdown
 #theme: minima
 gems:
   - jekyll-feed
+  - jekyll-tidy
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -38,3 +39,8 @@ navigation:
     url: /about/
   - title: Host a session
     url: /guidelines/
+
+jekyll_tidy:
+  exclude: []
+  compress_html: false
+  ignore_env: development

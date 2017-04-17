@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: false
+    active: true
     number: 10
-    title: '"Test Event"'
-    link: "http://www.scenepointblank.com"
-    artist: "Foo Fighters"
-    album: "Best Of You"
-    year: 1903
-    cover: "assets/img/records/event1/elvis.jpg"
-    date: 2015-02-25 19:30:00 +0100
-    desc: "A Description"
+    title: '"Inherited Taste"'
+    link: "https://www.eventbrite.com/e/off-the-record-10-inherited-taste-tickets-33734289167"
+    artist: "Pulp"
+    album: "Different Class"
+    year: 1995
+    cover: "assets/img/records/pulp.jpg"
+    date: 2015-04-27 19:30:00 +0100
+    desc: "Inherited Taste – music that you've inherited a fondness for from your childhood"
     location: "Birmingham (Cherry Reds)"
 ---
