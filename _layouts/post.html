@@ -22,5 +22,13 @@ layout: default
         {% endif %}
 
         {{ content }}
+
+        {% if page.spotify %}
+            <h5>Spotify playlist of songs</h5>
+            <p>See above to see who nominated each song which matched our theme, {{ page.title }}.</p>
+            <iframe src="https://open.spotify.com/embed?uri={{ page.spotify }}" width="100%" height="380"
+                    frameborder="0" allowtransparency="true"></iframe>
+        {% endif %}
+
     </article>
 </section>

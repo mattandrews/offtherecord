@@ -8,13 +8,14 @@ layout: default
             {% include next_event.html next=page.next%}
         {% else %}
             <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="next-event" />
-            <a class="cta block" href="#">Next event: coming soon!</a><br />
+            <p class="teaser">Our next event will be announced soon!</p>
+            <a class="cta block" href="#">Next event: {{ page.next.date | date_to_string }}</a><br />
         {% endif %}
 
-        <a href="{{ "/assets/img/otr_9.jpg" | absolute_url }}">
-            <img src="{{ "/assets/img/otr_9.jpg" | absolute_url }}" />
+        <a href="{{ "/assets/img/otr10.jpg" | absolute_url }}">
+            <img src="{{ "/assets/img/otr10.jpg" | absolute_url }}" />
         </a>
-        <p class="caption">A photo of the group from Off The Record #9</p>
+        <p class="caption">A photo of the group from Off The Record #10, April 2017</p>
     </aside>
 
     <article>

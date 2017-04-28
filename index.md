@@ -1,7 +1,7 @@
 ---
 layout: home
 next:
-    active: true
+    active: false
     number: 10
     title: '"Inherited Taste"'
     link: "https://www.eventbrite.com/e/off-the-record-10-inherited-taste-tickets-33734289167"
@@ -9,7 +9,7 @@ next:
     album: "Different Class"
     year: 1995
     cover: "assets/img/records/pulp.jpg"
-    date: 2015-04-27 19:30:00 +0100
+    date: 2015-05-25 19:30:00 +0100
     desc: "Inherited Taste – music that you've inherited a fondness for from your childhood"
     location: "Birmingham (Cherry Reds)"
 ---
