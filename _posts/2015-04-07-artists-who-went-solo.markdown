@@ -11,6 +11,7 @@ cover_caption: "Morrissey's solo debut"
 year: 1988
 photo: "assets/img/otr2.jpg"
 thumbnail: "assets/img/otr2.jpg"
+host: Dylan Smith
 ---
 
 Curated by meetup #1 veteran [Dylan Smith](https://twitter.com/dylanatsmith), we followed the theme Artists Who Went Solo. Dylan spun the first solo record released by Morrissey after the Smiths imploded, 1988‘s *Viva Hate*.

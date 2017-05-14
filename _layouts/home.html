@@ -79,7 +79,7 @@ layout: default
                     <h5>#{{ post.number }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape
                     }}</a></h5>
                     <h6>{% include record_title.html record=post %}</h6>
-                    <small>{{ post.date | date_to_string }}</small>
+                    <small>{{ post.date | date_to_string }} &bull; Host: {{ post.host }}</small>
                 </li>
             {% endfor %}
         </ul>

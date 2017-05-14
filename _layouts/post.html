@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<h1>Event #{{ page.number }}: {{ page.title }} <span>{{ page.date | date_to_string }}</span></h1>
+<h1>Event #{{ page.number }}: {{ page.title }}
+    <span>{{ page.date | date_to_string }} &bull; Host: {{ page.host }}</span></h1>
 <h2 class="record-list">{% include record_title.html record=page %}</h2>
 
 <section>

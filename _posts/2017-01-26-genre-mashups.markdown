@@ -11,6 +11,7 @@ cover_caption: "Wide-ranging, experimental and playful"
 year: 1997
 photo: "assets/img/otr7.jpg"
 thumbnail: "assets/img/otr7_smaller.jpg"
+host: Matt Rose
 ---
 
 For our first meetup of 2017 we followed the theme Genre Mashups &ndash; an album where we hear an artist experimenting with genres they don't normally use, covers in genre styles, or experimenting with a wide-ranging sound on one record.

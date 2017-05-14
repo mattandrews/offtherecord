@@ -18,6 +18,7 @@ records:
     year: 2008
 photo: "assets/img/otr1.png"
 thumbnail: "assets/img/otr1.png"
+host: Matt Andrews
 ---
 
 Off The Record’s debut event saw eight music-loving folk get together in the downstairs room of Coco Momo café in Holborn to listen to a couple of records separated by more than thirty years (not to mention genre). The two albums chosen (based on votes) were two debuts: Elvis Costello’s 1977 classic “My Aim Is True”, and The Tallest Man On Earth’s relatively recent 2008 debut full length, “Shallow Grave”.
