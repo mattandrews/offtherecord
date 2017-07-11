@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: false
+    active: true
     number: 13
-    title: '""'
+    title: '"A European Union"'
     link: "http://off-the-record-13.eventbrite.co.uk"
-    artist: ""
-    album: ""
+    artist: "The Whitest Boy Alive"
+    album: "Rules"
     year: 2007
-    cover: "assets/img/records/.jpg"
+    cover: "assets/img/records/whitestboyalive.jpg"
     date: 2017-07-25 19:30:00 +0100
-    desc: ""
+    desc: "Music made by a combination of artists from the continent of Europe. And apparently there was some sort of referendum recently, too."
     location: "Birmingham (Cherry Reds)"
 ---
