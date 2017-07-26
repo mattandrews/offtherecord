@@ -15,7 +15,7 @@ spotify: https://open.spotify.com/user/mattpointblank/playlist/1W0VDR15ubsZ61qoF
 host: Lauren Armstrong
 ---
 
-In May we were hosted by [Lauren Armstrong](https://twitter.com/strong_lae), a Canadian living in Birmingham who was keen to nominate one of her favourite bands for our Canada-themed event. Here's what she said about the theme she chose:
+In June we were hosted by [Lauren Armstrong](https://twitter.com/strong_lae), a Canadian living in Birmingham who was keen to nominate one of her favourite bands for our Canada-themed event. Here's what she said about the theme she chose:
 
 >"Canadiana is, as you’ve likely guessed, a classification of Canadian themed work. The Weakerthans fits perfectly within the tapestry of the Canadiana theme as they originated from the heart of the country, Winnipeg, Manitoba. You really can’t get more Canadian than that. Imagine corn and wheat fields as far as the eye can see, harsh and unforgiving winters, as well as blistering hot summers that bring the mosquitos and shad flies."
 
@@ -25,7 +25,7 @@ Despite most of our attendees having never been to Canada, this didn't stop over
 
 The group settled down to listen and although running at almost 40 minutes, the album felt well-paced, varied and interesting. We rated it at an average of exactly 6.8 (as new attendee Hannah correctly predicted!) and there was a mixture of words picked to describe it, mostly picking up on the lyrical storytelling nature of the songs. 
 
-After refuelling it was time for the rest of the group to nominate their choices for 'Canadiana'. This was perhaps the most popular theme yet with host Matt having to cut things short at 10pm with several people still wanting to nominate their choice (sorry Stefan). The ones that made the cut are below:
+After refuelling it was time for the rest of the group to nominate their choices for 'Canadiana'. This was perhaps the most popular theme yet with host Matt having to cut things short at 10pm with several people still wanting to nominate their choice. The ones that made the cut are below:
 
 - Calum: Joni Mitchell – "Free Man In Paris"
 - Rebecca: Caribou - "Yeti"
