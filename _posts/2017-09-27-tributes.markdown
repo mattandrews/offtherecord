@@ -9,8 +9,8 @@ album_name: "Stay Awake"
 cover_image: "assets/img/records/hal.jpg"
 cover_caption: "Tribute albums come in many varieties: to raise money for charities, to commemorate an event, or just to cash in on someone famous. This one's for Disney!"
 year: 1988
-photo: "assets/img/otr16.jpg"
-thumbnail: "assets/img/otr16_smaller.jpg"
+photo: "assets/img/otr15.jpg"
+thumbnail: "assets/img/otr15_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/1PiNo9UZJ9EutuiDwmcsXs
 host: William McCabe
 ---

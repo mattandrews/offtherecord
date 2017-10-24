@@ -9,13 +9,13 @@ layout: default
         {% else %}
             <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="next-event" />
             <p class="teaser">Our next theme will be announced soon!</p>
-            <a class="cta block" href="#">Next event: {{ page.next.date | date_to_string }}</a><br />
+            <a class="cta block" href="#">Next event: {% if page.next.date %}{{ page.next.date | date_to_string }}{% else %} Coming soon!{% endif %}</a><br />
         {% endif %}
 
-        <a href="{{ "/assets/img/otr14-2.jpg" | absolute_url }}">
-            <img src="{{ "/assets/img/otr14-2.jpg" | absolute_url }}" />
+        <a href="{{ "/assets/img/otr16.jpg" | absolute_url }}">
+            <img src="{{ "/assets/img/otr16.jpg" | absolute_url }}" />
         </a>
-        <p class="caption">A photo of the group from Off The Record #14, August 2017</p>
+        <p class="caption">A photo of the group from Off The Record #16, October 2017</p>
     </aside>
 
     <article>
