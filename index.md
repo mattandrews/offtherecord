@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: true
-    number: 17
-    title: '"Uncovered"'
-    link: "https://off-the-record-17.eventbrite.com"
-    artist: "Jackson Browne"
-    album: "For Everyman"
-    year: 1973
-    cover: "assets/img/records/jacksonbrowne.jpg"
-    date: 2017-11-29 19:30:00 +0100
-    desc: "Underappreciated original songs which have well-known cover versions."
+    active: false
+    number: 18
+    title: '""'
+    link: "https://off-the-record-18.eventbrite.com"
+    artist: ""
+    album: ""
+    year: 19
+    cover: "assets/img/records/.jpg"
+    date: 2017-12-19 19:30:00 +0100
+    desc: ""
     location: "Birmingham (Cherry Reds)"
 ---
