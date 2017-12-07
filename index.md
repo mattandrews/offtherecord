@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: false
+    active: true
     number: 18
-    title: '""'
+    title: '"2017 in Review"'
     link: "https://off-the-record-18.eventbrite.com"
-    artist: ""
-    album: ""
-    year: 19
-    cover: "assets/img/records/.jpg"
+    _artist: 
+    _album: 
+    _year: 
+    cover: "assets/img/records/2017.png"
     date: 2017-12-19 19:30:00 +0100
-    desc: ""
+    desc: "We'll be passing the mic to the group for you to share the music you most enjoyed in 2017."
     location: "Birmingham (Cherry Reds)"
 ---
