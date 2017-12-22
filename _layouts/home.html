@@ -12,10 +12,10 @@ layout: default
             <a class="cta block" href="#">Next event: {% if page.next.date %}{{ page.next.date | date_to_string }}{% else %} Coming soon!{% endif %}</a><br />
         {% endif %}
 
-        <a href="{{ "/assets/img/otr17.jpg" | absolute_url }}">
-            <img src="{{ "/assets/img/otr17.jpg" | absolute_url }}" />
+        <a href="{{ "/assets/img/otr18.jpg" | absolute_url }}">
+            <img src="{{ "/assets/img/otr18.jpg" | absolute_url }}" />
         </a>
-        <p class="caption">A photo of the group from Off The Record #17, November 2017</p>
+        <p class="caption">A photo of the group from Off The Record #18, December 2017</p>
     </aside>
 
     <article>
@@ -75,7 +75,9 @@ layout: default
                     </div>
                     <h5>#{{ post.number }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape
                     }}</a></h5>
-                    <h6>{% include record_title.html record=post %}</h6>
+                    {% if post.artist_name %}
+                        <h6>{% include record_title.html record=post %}</h6>
+                    {% endif %}
                     <small>{{ post.date | date_to_string }} &bull; Host: {{ post.host }}</small>
                 </li>
             {% endfor %}
