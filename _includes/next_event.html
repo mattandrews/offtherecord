@@ -1,15 +1,17 @@
-<a class="next-event" href="{{ include.next.link }}"><img src="{{ include.next.cover | absolute_url }}" /></a>
-{% if include.next.artist %}
-    <h6>{{ include.next.artist }} &ndash; {{ include.next.album }} ({{ include.next.year }})</h6>
-{% endif %}
-<p class="caption">{{ include.next.desc }}</p>
+<div class="js-next-event" data-event-date="{{ include.next.date }}">
+    <a class="next-event" href="{{ include.next.link }}"><img src="{{ include.next.cover | absolute_url }}" /></a>
+    {% if include.next.artist %}
+        <h6>{{ include.next.artist }} &ndash; {{ include.next.album }} ({{ include.next.year }})</h6>
+    {% endif %}
+    <p class="caption">{{ include.next.desc }}</p>
 
-<a class="cta block" href="{{ include.next.link }}">Get FREE tickets for meetup #{{ include.next.number }} <br /> {{
-    include.next.title}}</a>
+    <a class="cta block" href="{{ include.next.link }}">Get FREE tickets for meetup #{{ include.next.number }} <br /> {{
+        include.next.title}}</a>
 
-<h4 class="clear-left">Next meetup details</h4>
-<p>
-    &bull; {{ include.next.date | date_to_string }}<br/>
-    &bull; {{ include.next.location }}<br/>
-    &bull; FREE! <a href="{{ include.next.link }}">Get tickets here</a>.
-</p>
+    <h4 class="clear-left">Next meetup details</h4>
+    <p>
+        &bull; {{ include.next.date | date_to_string }}<br/>
+        &bull; {{ include.next.location }}<br/>
+        &bull; FREE! <a href="{{ include.next.link }}">Get tickets here</a>.
+    </p>
+</div>
