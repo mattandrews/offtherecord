@@ -13,6 +13,7 @@ photo: "assets/img/otr17.jpg"
 thumbnail: "assets/img/otr17_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/1ozyvfDibjon41PiZnTk94
 host: Calum Mayer
+score: 73
 ---
 
 November's Off The Record saw 18 hardy Brum music fans gather despite the freezing temperatures outside to listen to "For Everyman", Jackson Browne's 1973 record chosen to fit our theme of "Uncovered".

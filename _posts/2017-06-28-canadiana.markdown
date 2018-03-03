@@ -13,6 +13,7 @@ photo: "assets/img/otr12.jpg"
 thumbnail: "assets/img/otr12_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/1W0VDR15ubsZ61qoFReY7p
 host: Lauren Armstrong
+score: 68
 ---
 
 In June we were hosted by [Lauren Armstrong](https://twitter.com/strong_lae), a Canadian living in Birmingham who was keen to nominate one of her favourite bands for our Canada-themed event. Here's what she said about the theme she chose:

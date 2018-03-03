@@ -13,6 +13,7 @@ photo: "assets/img/otr15.jpg"
 thumbnail: "assets/img/otr15_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/1PiNo9UZJ9EutuiDwmcsXs
 host: William McCabe
+score: 67
 ---
 
 For September, we were hosred by William McCabe, who's spent most of his life in Birmingham and has "met far too many bands that you'll probably never have heard of". William also spent two years as a presenter/producer for internet radio station Rhubarb Radio with two hours a week of some of the oddities you find for free on the internet. He also regularly inflicts his lack of taste in music on attendees at a local vinyl night once a month.

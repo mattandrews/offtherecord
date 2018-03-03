@@ -13,6 +13,7 @@ photo: "assets/img/otr14-2.jpg"
 thumbnail: "assets/img/otr14-2_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/16KOp37u7DHVUEjCW0gAur
 host: Joe Grassby
+score: 65
 ---
 
 For August's meetup we were hosted by Joe Grassby, a middle manager in the civil service who listens to alternative rock, smelly prog and atonal noise jams, and has been accused of being allergic to melody. Joe chose the album and theme for the following reasons:

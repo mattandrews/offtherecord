@@ -13,6 +13,7 @@ photo: "assets/img/otr_9.jpg"
 thumbnail: "assets/img/otr_9_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/6KtrIcoaPpNNDvSUGAiZTe
 host: David Rapson
+score: 70
 ---
 
 A record event for Off The Record – 17 people crammed into Cherry Reds to listen to jazz. Who'd have thought it?

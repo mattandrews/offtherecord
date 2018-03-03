@@ -12,6 +12,7 @@ year: 2008
 photo: "assets/img/otr_8.jpg"
 thumbnail: "assets/img/otr_8_smaller.jpg"
 host: Emily Collins
+score: 75
 ---
 
 Meetup 8 saw us listen to our first album with its own corresponding comic book &ndash; surely some sort of record. We also struggled, for the first time, to find all of the lyrics for the album. This is perhaps because they've been beamed into space on the back of a rocket, as the Phenomenauts would approve.

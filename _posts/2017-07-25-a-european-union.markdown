@@ -13,6 +13,7 @@ photo: "assets/img/otr13.jpg"
 thumbnail: "assets/img/otr13_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/5VVSy4Gp2oDkgtHAn0GjkA
 host: Abdul Cabdullahi
+score: 75
 ---
 
 For July's meetup we were hosted by Off The Record regular Abdul Cabdullahi, a Norwegian who's lived in the UK for about 10 years. Abdul is an architect and in addition to music, enjoy watching sports (mainly football and handball). After teasing members last week by claiming he'd keep the album secret, Abdul chose "Rules" by The Whitest Boy Alive, released in 2009. 

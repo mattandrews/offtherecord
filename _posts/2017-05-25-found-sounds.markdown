@@ -13,6 +13,7 @@ photo: "assets/img/otr11.jpg"
 thumbnail: "assets/img/otr11_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/74bcqheNCUWezRiwkhgcxh
 host: Rob Lindsay
+score: 65
 ---
 
 In May we were hosted by [Rob Lindsay](https://twitter.com/robintheoffice), a Social Media-er and adopted Brummie, who is easily distracted by musical rabbit holes. Rob chose this album because "sampling allows a producer to draw upon any and every sound they hear from anywhere in the world. Yet albums like this one, which throw their arms wide to a range of moods and surprises, and yet manage to retain a consistent aesthetic, remain frustratingly few and far between."

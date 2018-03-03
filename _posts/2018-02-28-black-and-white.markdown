@@ -13,6 +13,7 @@ photo: "assets/img/otr20.jpg"
 thumbnail: "assets/img/otr20_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/2rPRFQ0anwIJ7ZeDU7zlO0?si=VOS3TUsATI227wNfSHhgDQ
 host: Steve Whitty
+score: 75
 ---
 
 [The Beast from the East](http://www.bbc.co.uk/news/in-pictures-43256148) tried to stop our fun on this frosty February evening, but it didn't reckon with the hardy nature of the Off The Record devoted, who turned up in their droves (well, 10 of us) to listen to a night of music in monochrome.

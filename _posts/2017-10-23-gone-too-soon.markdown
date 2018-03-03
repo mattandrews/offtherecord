@@ -13,6 +13,7 @@ photo: "assets/img/otr16.jpg"
 thumbnail: "assets/img/otr16_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/0xiu7ytstPyhk2aMlscnwk
 host: Matt Andrews
+score: 62
 ---
 
 For October's meetup it was our esteemed founder Matt's turn to host once more, having last done so in 2015. The theme was "Gone Too Soon": artists who sadly died before their prime or were otherwise taken from us. The band in question, The Exploding Hearts, were a power-pop quartet from Portland, Oregon. Their debut (and sadly only) album, "Guitar Romantic", was released in 2003. The band were influenced by The Rezillos, Buzzcocks, The Jam, The Boys, The Only Ones and others, combining a punk/power-pop love with some snappy guitar playing and mock-British vocals.

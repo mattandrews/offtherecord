@@ -13,6 +13,7 @@ photo: "assets/img/otr10.jpg"
 thumbnail: "assets/img/otr10_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/2tpPTLyXTQ7iLFJIbIgjpk
 host: Rebecca Cowley
+score: 76
 ---
 
 This month we were hosted by Rebecca Cowley of [Working Clasp](http://www.workingclasp.com/) jewellery fame. Bec suggested our theme of "Inherited Taste because because "initially the anthemic and catchy tunes were ingrained in my mind through being played at numerous family parties and weekends, but as an adult I've gained a greater appreciation for the lyrical content and wider socio-political context."
