@@ -8,7 +8,7 @@ artist_name: "The Exploding Hearts"
 album_name: "Guitar Romantic"
 cover_image: "assets/img/records/hearts.jpg"
 cover_caption: "Albums by an artist who sadly died before their time. We all know the tragic members of the 27 Club, but for this Halloween special, we'd like to hear about lesser-known artists who left us before their prime."
-year: 1988
+year: 2003
 photo: "assets/img/otr16.jpg"
 thumbnail: "assets/img/otr16_smaller.jpg"
 spotify: https://open.spotify.com/user/mattpointblank/playlist/0xiu7ytstPyhk2aMlscnwk
