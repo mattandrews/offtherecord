@@ -3,7 +3,14 @@ layout: default
 ---
 <section>
     <article>
-        <h1>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
         {{ content }}
+        {% if page.ideas %}
+            <button class="cta block" style="margin-bottom: 40px;" id="js-generate">Try another idea</button>
+            <h5>"<span id="js-title"></span>"</h5>
+            <h6 id="js-subtitle"></h6>
+            <p style="margin-top: 40px;">Interested in hosting a session with this idea? <a href="/guidelines/">Get in touch</a>!</p>
+            <script src="{{ "/assets/js/ideas.js" | relative_url }}"></script>
+        {% endif %}
     </article>
 </section>
