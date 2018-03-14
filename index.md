@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: false
+    active: true
     number: 21
-    title: '""'
+    title: '"Bilingual"'
     link: "https://off-the-record-21.eventbrite.co.uk"
-    artist: "" 
-    album: "!" 
-    year: 19 
-    cover: "assets/img/records/.jpg"
+    artist: "Kimonos" 
+    album: "Kimonos" 
+    year: 2010 
+    cover: "assets/img/records/Kimonos.jpg"
     date: 2018-03-26 19:00:00 +0100
-    desc: ""
+    desc: "Albums where the artist sings in multiple languages on the record."
     location: "Birmingham (Cherry Reds)"
 ---
