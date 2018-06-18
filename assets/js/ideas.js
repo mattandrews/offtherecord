@@ -112,9 +112,7 @@ let subtitle = document.getElementById('js-subtitle');
 btn.addEventListener('click', () => {
     let rand = OTR_IDEAS[Math.floor(Math.random()*OTR_IDEAS.length)];
     title.innerText = rand.title;
-    if (rand.subtitle) {
-        subtitle.innerText = rand.subtitle;
-    }
+    subtitle.innerHTML = (rand.subtitle) ? rand.subtitle : ' ';
 });
 
 btn.click();
