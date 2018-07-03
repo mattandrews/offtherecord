@@ -10,7 +10,7 @@ layout: default
         <div class="js-generic-next-event{% if page.next.active %} hidden{% endif %}">
             <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="next-event" />
             <p class="teaser">Our next theme will be announced soon!</p>
-            <a class="cta block" href="#">Next event: {% if page.next.date %}{{ page.next.date | date_to_string }}{% else %} Coming soon!{% endif %}</a><br />
+            <a class="cta block" href="#" id="js-generic-cta">Next event: Coming soon!</a><br />
         </div>
 
         <a href="{{ "/assets/img/otr19.jpg" | absolute_url }}">
