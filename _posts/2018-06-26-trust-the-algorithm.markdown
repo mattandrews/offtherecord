@@ -55,7 +55,7 @@ Words used by the group included the following:
 
 It was then over to the group to share songs matching our theme of "Trust the Algorithm" – the idea was that they'd choose a song they'd never heard but were either planning to listen to, or had been algorithmically alerted to. Here's the songs they chose:
 
-- Russel: Liz Phair - "Fuck and Run"
+- Russell: Liz Phair - "Fuck and Run"
 - David: Nnamdi Ogbonnaya - "Cindy OsO"
 - Lewis: Re: - "Golem"
 - Abdul: Human Tetris - "Long Flight"

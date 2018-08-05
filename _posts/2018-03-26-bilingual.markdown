@@ -31,7 +31,7 @@ Reactions at the end were mixed – Abdul (clearly objective) scored "Kimonos" a
 
 Finally, it was over to the group to share bilingual songs, or at least, songs that weren't in English. The primary language is noted in brackets after each track:
 
-- Russel: Calexico - "Güero Canelo" (Spanish)
+- Russell: Calexico - "Güero Canelo" (Spanish)
 - William: Shonen Knife - "Riding On The Rocket" (Japanese)
 - Lewis: Laibach - "Warme Lederhaut" (German)
 - Steph: Mc Solaar - "Hasta la Vista" (Spanish + French)

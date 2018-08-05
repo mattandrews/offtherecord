@@ -1,15 +1,15 @@
 ---
 layout: home
 next:
-    active: true
-    number: 24
-    title: '"Songs About Places"'
-    link: "https://off-the-record-24.eventbrite.co.uk"
-    artist: "Drive-by Truckers"
-    album: "Dirty South"
-    year: 2004
-    cover: "assets/img/records/dbt.jpg"
-    date: 2018-07-25 19:00:00 +0100
-    desc: "Songs about a place (real or fictional) and the stories it weaves"
+    active: false
+    number: 25
+    title: '""'
+    link: "https://off-the-record-25.eventbrite.co.uk"
+    artist: ""
+    album: ""
+    year: 20
+    cover: "assets/img/records/.jpg"
+    date: 2018-08-29 19:00:00 +0100
+    desc: ""
     location: "Birmingham (Cherry Reds)"
 ---

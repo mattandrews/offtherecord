@@ -34,7 +34,7 @@ Responses were positive: everyone had something good to say about the album with
 - Joe: Sonic Youth - "Mildred Pierce"
 - Martin: Tilly And The Wall - "Beat Control"
 - Connor: Slowdive - "Star Roving"
-- Russel: Johnny Cash - "I See A Darkness"
+- Russell: Johnny Cash - "I See A Darkness"
 - Matias: Babasónicos - "Como Eran Las Cosas"
 - Andrea: Broadcast - "I Found The F"
 - Steve: The Motors - "Dancing The Night Away"
