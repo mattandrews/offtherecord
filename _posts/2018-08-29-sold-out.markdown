@@ -1,0 +1,34 @@
+---
+layout: post
+title:  '"Sold Out?"'
+date: 2018-08-29 19:00:00 +0100
+number: 25
+eventbrite: "https://www.eventbrite.com/e/off-the-record-25-sold-out-tickets-49210540050#"
+artist_name: "Moby"
+album_name: "Play"
+cover_image: "assets/img/records/moby-play.jpg"
+cover_caption: "Songs about a place (real or fictional) and the stories it weaves"
+year: 1999
+#photo: "assets/img/otr22.jpg"
+#thumbnail: "assets/img/otr22_smaller.jpg"
+spotify: https://open.spotify.com/user/mattpointblank/playlist/1sou0tX29uYGK6MXCTkqwV?si=HguEE6kdTiOWdq4s1J1pXQ
+host: Ruth Harvey
+score: 66
+---
+
+For Off The Record's 25th event, we listened to one of the highest-selling albums of the 90s: "Play" by Moby, famed for allowing every song to be used in adverts or other similarly-commercial ventures.
+
+Our host Ruth Harvey described herself as having "an eclectic taste in music, and still treasures one of her cassettes from the nineties with In Utero recorded on one side & Take That on the other". This album was a great choice for eclecticism: while Moby cut his teeth in the New York breakbeat/techno scene, "Play" includes samples from classic and obscure soul, blues, dance and hip-hop records. It's also extremely well known – many attendees said they hadn't heard the whole thing, but knew bits of it.
+
+The album was long (63 minutes) and sometimes repetitive, but also changed in tone as it progressed: some described it as "front-loaded", with a sequence of multiple instrumental tracks closing out the latter half of the record. Attendees described it as "euphoric" and "bombastic", though critics suggested it was "overlong", "overplayed" and "variable". 
+
+Post-listen, discussion centred on whether Moby "sold out" by putting the songs on commercials, or was it a canny move to expose a mainstream audience to electronic music? Opinion was split though in general people agreed that musicians shouldn't be held to arbitrary standards or expected to live like monks and sell six records in their lifetime in order to be considered good. 
+
+Some debate occurred around cultural appropriation (though the conclusion was that Moby was exposing new audiences to the black music he borrowed from) and we even heard that hip-hop apparently has its origins in Scottish call-and-response folk music (prompting Neil to quip "is that why they all have MC in their name?"). It was over to the group to rate the album: a 6.6 / 10 all in all, with scores ranging from 5 to 8. Here's the songs they chose to fit our theme: artists who "sold out"?
+
+- Rob: Incredible Bongo Band - "Bongo Rock"
+- Alan: Neil Young - "This Note's For You"
+- Matt: Against Me! - "Reinventing Axl Rose"
+- Ruth: The Knife - "Heartbeats"
+
+After this, it was the end of the night – thanks to everyone for coming out and Ruth for a great job hosting.
