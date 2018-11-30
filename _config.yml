@@ -18,7 +18,7 @@ email: matt@mattandrews.info
 description: > # this means to ignore newlines until "baseurl:"
   Off The Record is a monthly event where a bunch of music-loving people get together to listen to a whole album in full - no distractions, no interruptions - and then talk about it afterwards.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://offtherecord.club" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://offtherecord.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OffTheRecordBHM
 github_username:  mattandrews
 
