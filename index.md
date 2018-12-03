@@ -2,14 +2,14 @@
 layout: home
 next:
     active: true
-    number: 28
-    title: '"Forgotten Sounds of Birmingham"'
-    link: "https://off-the-record-28.eventbrite.co.uk"
-    artist: "Broadcast"
-    album: "The Noise Made by People"
-    year: 2000
-    cover: "assets/img/records/broadcast.jpg"
-    date: 2018-11-26 19:00:00 +0100
-    desc: "Sure, we're known for metal, but what other music has been produced here (and in the wider West Midlands) that should also be recognised?"
+    number: 29
+    title: '"2018 in Review"'
+    link: "https://off-the-record-29.eventbrite.co.uk"
+    #artist: "Broadcast"
+    #album: "The Noise Made by People"
+    #year: 2000
+    cover: "assets/img/records/2018.jpg"
+    date: 2018-12-17 19:00:00 +0100
+    desc: "Our favourite albums of 2018 and a few festive bonuses"
     location: "Birmingham (Cherry Reds)"
 ---
