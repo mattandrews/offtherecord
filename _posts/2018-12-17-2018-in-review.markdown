@@ -1,0 +1,154 @@
+---
+layout: post
+title:  '"2018 in Review"'
+date: 2018-12-17 19:00:00 +0100
+number: 29
+eventbrite: "https://www.eventbrite.com/e/off-the-record-29-2018-in-review-tickets-53247946040"
+#artist_name: "Donny Hathaway"
+#album_name: "Live"
+cover_image: "assets/img/records/2018.jpg"
+cover_caption: "Our favourite albums of 2018 and a few festive bonuses"
+year: 2018
+#photo: "assets/img/otr22.jpg"
+#thumbnail: "assets/img/otr22_smaller.jpg"
+spotify: https://open.spotify.com/user/mattpointblank/playlist/4DsT6A1sXi9zgXklUYQPfE?si=6nc9WJyIQEWg88b77oQFYQ
+host: Matt Andrews
+#score: 81
+---
+
+Our final event of the year was a festive best-of, where we gathered together to share our favourite songs/albums of 2018. We also ran a pre-event survey for everyone to nominate their favourite albums of the year. Using some extremely scientific methodology (eg. adding together everyone's scores for an overall tally), the top 8 albums of the group came out like this:
+
+1. Low - Double Negative (22 points / 5 nominations)
+2. Matt Berry - Television Themes (9 points)
+3. Janelle Monae - Dirty Computer (8 points)
+4. Gazelle Twin - Pastoral (7 points)
+5. Goat Girl - Goat Girl (7 points)
+6. Ryley Walker - Deafman Glance (5 points)
+7. Aidan Moffat & RM Hubbert - Here Lies the Body (3 points)
+8. Tune-yards - I Can Feel You Creep Into My Private Life (2 points)
+
+Clearly the Low album was the biggest winner, so we heard a song from it on the night. Big thanks to Joe Grassby for suggesting this concept!
+
+We also tallied up some stats for the year in OTR:
+
+- 495 minutes of music listened to in total
+- [Lowest album score: 6.6 / 10]({% post_url 2018-08-29-sold-out %})
+- [Highest album score: 8.1 / 10]({% post_url 2018-10-30-you-had-to-be-there %})
+
+As is now traditional, we embarked on our Christmas quiz. I reproduce the questions here for posterity:
+
+## 1. Intros round
+We heard a sample from each album played over the year.
+
+## 2. Meta round
+
+##### Question 1
+**Q**: What was the average score for OTR albums this year?
+
+**A**: 7.3 / 10
+
+##### Question 2
+**Q**: How many of the ten records we listened to were released in the 1980s?
+
+**A**: One (Julian Cope – Fried (1985)
+
+##### Question 3
+**Q**: Which of these words was really used to describe an album?
+- Banterlicious
+- Windows XP
+- Metrosexual
+- Frappuccino  
+
+**A**: Windows XP (Janelle Monae – Dirty Computer)
+
+## 3. 2018 in music
+
+##### Question 1
+**Q**: Eddie Clarke of Motorhead fame died in January of this year. What instrument did he play
+
+**A**: Guitar 
+
+##### Question 2
+**Q**: We also lost Aretha Franklin – in what year did her first studio album come out?
+
+**A**: 1961
+
+##### Question 3
+**Q**: There was a total lunar eclipse on January 31st. In the song Total Eclipse of the Heart, complete this line in the chorus: “We’re living in a powder keg…”
+
+**A**: And giving off sparks 
+
+##### Question 4
+**Q**: In May, Israel won the Eurovision Song Contest with Netta Barzilai’s song “Toy”. Which country’s culture was she accused of appropriating in the performance?
+
+**A**: Japan
+
+##### Question 5
+**Q**: A band that reformed in 2018 recorded [this banger](https://youtu.be/RGRpVAbYv5c?t=158) in 2000. Name the group and the rapper.
+
+**A**: Spice Girls (Mel B)
+
+## 4. Who said it: Morrissey or Farage?
+
+**Q**: “I've always been the outsider. I've always been regarded as some extraordinarily dangerous figure. I'm none of those things!”
+
+**A**: Farage
+
+**Q**: “When someone calls you racist, what they are saying is “hmm, you actually have a point, and I don’t know how to answer it”
+
+**A**: Morrissey
+
+**Q**: “Brexit did not happen. The EU wouldn’t allow it to happen. It is now a dead issue. The people said Leave but the EU said no”
+
+**A**: Morrissey
+
+**Q**: “You have the charisma of a damp rag, and the appearance of a low-grade bank clerk”
+
+**A**: Farage
+
+**Q**: “What’s the first thing I do when I wake up in the morning? Wish I hadn’t.”
+
+**A**: Morrissey
+
+**Q**: “The great and the good will decide what is good for us and make sure that we get what is good for us, good and hard.”
+
+**A**: Farage
+
+**Q**: ”The euro Titanic has now hit the iceberg - and there simply aren't enough lifeboats to go round.”
+
+**A**: Farage
+
+**Q**: “The rhino is now more or less extinct, and it’s not because of global warming or shrinking habitats. It’s because of Beyonce’s handbags.”
+
+**A**: Morrissey
+
+**Q**: “Madonna reinforces everything absurd and offensive. Desperate womanhood. Madonna is closer to organised prostitution than anything else.”
+
+**A**: Morrissey
+
+**Q**: “Will I ever forgive the British media for what they've done to me? No.“ (Farage)
+
+# Song selection
+
+After the quiz fun, it was time to share everyone's nominations for their favourite songs/albums of the year. Here's the list of everything that was nominated (the playlist is below).
+
+- Lewis: Low - "Quorum"
+- Simon: Matt Berry - "Rainbow"
+- Holly: Dirty Projectors - "That's A Lifestyle"
+- Martin: Confidence Man - "Boyfriend (Repeat)"
+- Lauren: Donovan Woods - "I Ain't Ever Loved No One"
+- "New Joe": Stephen Malkmus + the Jicks - "Middle America"
+- Andrea: Yves Tumor - "Noid"
+- Abdul: Camp Cope - "The Opener"
+- Steph: Baxter Dury - "Tais Toi"
+- William: Barefoot McCoy - "Last Lullabye"
+- Stefan: Joey Purp - "Hallelujah"
+- Nick: Neko Case - "Curse of the I-5 Corridor"
+- Joe: Hot Snakes - "Death Camp Fantasy"
+- David Rapson: Chloe x Halle - "The Kids Are Alright"
+- Matt: Sons of Kemet - "My Queen is Ada Eastman"
+- Rob: Daphne & Celeste - "Alarms"
+
+Quite a few other songs were nominated by the above folks, and they're all on the playlist below. Thanks for your choices!
+
+It only remains to thank all the good folks who hosted OTR this year: Martin, Steve, Abdul, Lauren, Russell, Ruth, Lewis, Calum and Andrea. Thanks for a great set of events and looking forward to 2019.
