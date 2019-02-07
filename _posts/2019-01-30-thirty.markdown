@@ -1,0 +1,42 @@
+---
+layout: post
+title:  '"Thirty"'
+date: 2019-01-30 19:00:00 +0100
+number: 30
+eventbrite: "https://off-the-record-30.eventbrite.co.uk"
+artist_name: "Beastie Boys"
+album_name: "Paul's Boutique"
+cover_image: "assets/img/records/beasties.jpg"
+cover_caption: "Albums with a link to the number thirty (eg. age, songs, performer)"
+year: 1989
+#photo: "assets/img/otr22.jpg"
+#thumbnail: "assets/img/otr22_smaller.jpg"
+spotify: https://open.spotify.com/user/mattpointblank/playlist/746iXoh9lefly2nuYeB9dq?si=g_mUXA9BRu2E7bXAVittlg
+host: Rob Lindsay
+score: 66
+---
+
+January marked our thirtieth event, held on the 30th day of the month. Our theme, of course, was "thirty": music with a link to the number 30. Maybe it would be a 30-year-old album, an album with 30 performers, a record with 30 songs or an album released by a 30 year old. However tenuous the connection, we wanted to hear things related to the number 30.
+
+Our album was celebrating its 30th anniversary this year: "Paul's Boutique", the cult Beastie Boys album. We were hosted by Rob Lindsay, a "Social Media-er and adopted Brummie", who is easily distracted by musical rabbit holes. Rob is a huge fan of sampling and turntablism (as evidenced by his previous OTR hosting effort with the Avalanches back in 2017) and will play Lou Bega to anyone at any opportunity.
+
+Paul's Boutique is famed for its groundbreaking use of samples and its cult status amongst hip-hop fans despite the record label's disapproval at the time, and about two thirds of the audience had already heard the record.
+
+We settled down to listen to just under an hour of samples, lengthy rhymes (10+ pages of lyrics!), genre mixing and wordplay.
+
+Reception afterwards was fairly mixed: most people commented favourably on the Beasties' efforts to distance themselves from the fratboy rap of their debut, but equally it felt like some of the tracks felt a little dated and not very "woke" in 2019, despite the album's groundbreaking, progressive reputation.
+
+People commented on the density of the beats, sometimes wishing for a less layered backing so the words could stand out more. Some folks praised the lengthy closing track for its lo-fi, raw feel, but others felt the album could've ended without it and not suffered.
+
+Words used to describe the album included "boisterous" and "brash", "juvenile" and "chaotic", "coherent" and "eclectic", and a plain-ol "meh". The average score was 6.6 / 10.
+
+Here are the songs the group shared, matching our theme of "thirty":
+
+- William: Pop Will Eat Itself – "Not Not James, We're Busy"
+- Lewis: [Shamen – "Synergy"](https://www.youtube.com/watch?v=hxoe-xUYL8g) (not on Spotify!)
+- Steph: The Cure: "Pictures Of You"
+- Stefan: The Weather Station – "Thirty"
+- Nicole: The Stone Roses – "I Wanna Be Adored"
+- Matt: David Hasselhoff – "Looking For Freedom"
+
+Special thanks to William for bringing along a copy of a Birmingham music zine published 30 years ago in 1989 – a few of the acts mentioned were still around today (possibly). Thanks to Rob for hosting!
