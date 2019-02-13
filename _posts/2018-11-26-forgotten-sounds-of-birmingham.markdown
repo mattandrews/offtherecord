@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"You Had To Be There"'
+title:  '"Forgotten Sounds of Birmingham"'
 date: 2018-11-26 19:00:00 +0100
 number: 28
 eventbrite: "https://off-the-record-28.eventbrite.co.uk"
