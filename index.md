@@ -2,14 +2,14 @@
 layout: home
 next:
     active: true
-    number: 30
-    title: '"Thirty"'
-    link: "https://off-the-record-30.eventbrite.co.uk"
-    artist: "Beastie Boys"
-    album: "Paul's Boutique"
-    year: 1989
-    cover: "assets/img/records/beasties.jpg"
-    date: 2019-01-30 19:00:00 +0100
-    desc: "Albums with a link to the number thirty (eg. age, songs, performer)"
+    number: 31
+    title: '"Girl Groups"'
+    link: "https://off-the-record-31.eventbrite.com"
+    artist: "Fanny"
+    album: "Charity Ball"
+    year: 1971
+    cover: "assets/img/records/fanny.jpg"
+    date: 2019-02-25 19:00:00 +0100
+    desc: "Albums by bands solely made up of women."
     location: "Birmingham (Cherry Reds)"
 ---
