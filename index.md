@@ -1,7 +1,7 @@
 ---
 layout: home
 next:
-    active: true
+    active: false
     number: 40
     title: '"Perfect length for an episode of Eastenders"'
     link: "https://www.facebook.com/events/573185819899572"
