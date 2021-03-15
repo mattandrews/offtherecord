@@ -57,7 +57,8 @@ layout: default
 
 <section>
     <article>
-        <h2 id="past">Past Events</h2>
+        <h2 id="past">Past events <small>{{ site.posts | size }} total events</small></h2>
+
         <ul class="event-list">
             {% for post in site.posts %}
                 <li>

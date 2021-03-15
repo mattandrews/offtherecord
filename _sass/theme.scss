@@ -1,12 +1,14 @@
 $tablet: 700px;
 $desktop: 900px;
 $wide: 1100px;
+$enormous: 1500px;
 
 $gutters: (
     'default': 20px,
     'tablet': 30px,
     'desktop': 10%,
-    'wide': 15%
+    'wide': 15%,
+    'enormous': 20%
 );
 
 * {
@@ -50,6 +52,11 @@ header, main {
     @media screen and (min-width: $wide) {
         padding-left: map-get($gutters, 'wide');
         padding-right: map-get($gutters, 'wide');
+    }
+
+    @media screen and (min-width: $enormous) {
+        padding-left: map-get($gutters, 'enormous');
+        padding-right: map-get($gutters, 'enormous');
     }
 }
 
