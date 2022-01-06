@@ -1,0 +1,17 @@
+---
+layout: post
+title: '"Fifty"'
+date: 2021-03-24 19:00:00 +0100
+number: 50
+#eventbrite: "https://off-the-record-31.eventbrite.com"
+artist_name: "Carole King"
+album_name: "Tapestry"
+cover_image: "assets/img/records/tapestry.jpg"
+cover_caption: "Our fiftieth event! What a milestone. To celebrate, we listened to an album that turned 50 this year and is regularly hailed as one of the greatest records ever: Carole King's 1971 classic 'Tapestry'."
+year: 1971
+#photo: "assets/img/otr22.jpg"
+#thumbnail: "assets/img/otr22_smaller.jpg"
+spotify: https://open.spotify.com/playlist/1cn7Bl4i2tofyovqItGG3F?si=0cd8f32e626e47cb
+host: Matt Andrews
+score: 73
+---
