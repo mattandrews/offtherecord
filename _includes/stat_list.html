@@ -1,0 +1,22 @@
+<div class="post">
+    <ol class="post">
+        {% for post in include.albums limit:5 %}
+            <li class="clear-right overflow-hidden">
+                {% if post.artist_name %}
+                    <h3>#{{forloop.index}} - {% include record_title.html record=post %}</h3>
+                {% endif %}
+                {% if post.multi_record %}
+                    {% for r in post.records %}
+                        {% if forloop.first %}
+                            <img src="{{ r.cover_image | absolute_url }}" class="float-right"/>
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <img src="{{ post.cover_image | absolute_url }}" class="float-right"/>
+                {% endif %}
+                <p>{{ post.date | date_to_string }} &bull; Host: <strong>{{ post.host }}</strong></p>
+                <h5>Score: {{post.score}} / 100</h5>
+            </li>
+        {% endfor %}
+    </ol>
+</div>

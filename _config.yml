@@ -39,8 +39,8 @@ navigation:
     url: /about/
   - title: Host a session
     url: /guidelines/
-  - title: Facebook
-    url: https://www.facebook.com/OffTheRecordBHM/
+  - title: Stats
+    url: /stats/
 
 jekyll_tidy:
   exclude: []
