@@ -396,3 +396,31 @@ footer p {
 .hidden {
     display: none;
 }
+
+table {
+    border: 1px solid #4d4d4d;
+    width: 100%;
+
+    th,
+    td {
+        padding: 10px;
+        border: 1px solid #4d4d4d;
+    }
+
+    th {
+        border: 1px solid #ffe30c;
+        background-color: #fff3b3;
+        color: #4d4d4d;
+        text-align: left;
+    }
+
+    tbody tr:hover {
+        background-color: #4c4040;
+        cursor: pointer;
+    }
+}
+
+video {
+    width: 100%    !important;
+    height: auto   !important;
+}

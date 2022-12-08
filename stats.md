@@ -8,9 +8,32 @@ permalink: /stats/
 {% assign top_albums = albums_with_scores | sort:"score" | reverse %}
 {% assign bottom_albums = top_albums | reverse %}
 
-## Our top-rated albums of all time
-{% include stat_list.html albums=top_albums %}
+## All our albums, ranked by score
+<table>
+    <thead>
+        <tr>
+            <th>Artist and album</th>
+            <th>Host</th>
+            <th>Score</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for album in top_albums -%}
+            <tr>
+                <td>{% include record_title.html record=album %}</td>
+                <td>{{ album.host }}</td>
+                <td>{{ album.score }} / 100</td>
+            </tr>
+        {%- endfor -%}
+    </tbody>
+</table>
 
-## Our slightly less appreciated albums...
-{% include stat_list.html albums=bottom_albums %}
-
+## All our hosts (and the number of times they hosted)
+{% assign albums_by_host = albums_with_scores | group_by:"host" %}
+<article class="post">
+    <ul>
+    {% for group in albums_by_host %}
+        <li> {{ group.name }} - {{ group.items | size }} time(s)</li>
+    {% endfor %}
+    </ul>
+</article>
