@@ -20,7 +20,7 @@ permalink: /stats/
     <tbody>
         {% for album in top_albums -%}
             <tr>
-                <td>{% include record_title.html record=album %}</td>
+                <td>#{{ forloop.index }}. {% include record_title.html record=album %}</td>
                 <td>{{ album.host }}</td>
                 <td>{{ album.score }} / 100</td>
             </tr>
