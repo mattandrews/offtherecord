@@ -1,0 +1,17 @@
+---
+layout: post
+title: '"Pop/Art?"'
+date: 2023-07-25T15:22:11.874Z
+number: 65
+artist_name: "KLF"
+album_name: "The White Room"
+cover_image: "assets/img/records/65.jpg"
+cover_caption: "With a background in fine art, theatre and the febrile post punk scene, Rockman Rock and Kingboy D were experts in their own myth-making: They invented ambient house with Chill Out and Space, fired machine guns at The Brit Awards, and dropped dead livestock at the Turner Prize. And then there's something about a million quid. The pinnacle of their work together is this evenings record - The White Room, the hugely flawed soundtrack to a road movie that they might've nearly made"
+year: 1991
+spotify: 
+host: Lewis Burn
+#score: 1
+#eventbrite: ""
+#photo: ""
+#thumbnail: ""
+---

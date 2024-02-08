@@ -1,0 +1,17 @@
+---
+layout: post
+title: '"1969"'
+date: 2023-12-11T16:28:31.143Z
+number: 69
+artist_name: "The Stooges"
+album_name: "The Stooges"
+cover_image: "assets/img/records/69.jpg"
+cover_caption: "The year 1969 was a pivotal one in music"
+year: 1969
+spotify: 
+host: Joe Grassby
+score: 76
+#eventbrite: ""
+#photo: ""
+#thumbnail: ""
+---

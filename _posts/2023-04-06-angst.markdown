@@ -1,0 +1,17 @@
+---
+layout: post
+title: '"Angst"'
+date: 2023-04-06T15:16:44.979Z
+number: 62
+artist_name: "The Dismemberment Plan"
+album_name: "Emergency & I"
+cover_image: "assets/img/records/62.jpg"
+cover_caption: "ANGST. That's right: music that's about struggling with emotions, relationships, existential questions and everything in between."
+year: 1999
+spotify: 
+host: Matt Andrews
+score: 67
+#eventbrite: ""
+#photo: ""
+#thumbnail: ""
+---
