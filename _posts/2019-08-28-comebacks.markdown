@@ -13,5 +13,5 @@ year: 2002
 #thumbnail: "assets/img/otr22_smaller.jpg"
 #spotify: https://open.spotify.com/user/mattpointblank/playlist/08n7TEMicoegdYdeuL7sM5?si=aZloDqNhRhmWUpH8JRwidQ
 host: Lorna Burke
-#score: 70
+score: 64
 ---

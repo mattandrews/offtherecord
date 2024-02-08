@@ -13,5 +13,5 @@ year: 1970
 #thumbnail: "assets/img/otr22_smaller.jpg"
 #spotify: https://open.spotify.com/user/mattpointblank/playlist/08n7TEMicoegdYdeuL7sM5?si=aZloDqNhRhmWUpH8JRwidQ
 host: Rob Lindsay
-#score: 66
+score: 61
 ---
