@@ -1,0 +1,27 @@
+{
+  "name": "offtherecord",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a jekyll site.",
+  "main": "add-event.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattandrews/offtherecord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattandrews/offtherecord/issues"
+  },
+  "homepage": "https://github.com/mattandrews/offtherecord#readme",
+  "devDependencies": {
+    "inquirer": "^9.2.14"
+  },
+  "dependencies": {
+    "inquirer-date-prompt": "^3.0.0"
+  }
+}
