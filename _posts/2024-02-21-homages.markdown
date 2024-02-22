@@ -1,0 +1,17 @@
+---
+layout: post
+title: '"Homages"'
+date: 2024-02-21T19:00:13.955Z
+number: 70
+artist_name: "Tigapagi"
+album_name: "Roekmana's Repertoire"
+cover_image: "assets/img/records/70.png"
+cover_caption: "Homages: music that is dedicated to someone or something. The theme was inspired by the quote 'Good artists copy, great artists steal'."
+year: 2013
+spotify: 
+host: Aulia Ramadhan
+score: 83
+#eventbrite: ""
+#photo: ""
+#thumbnail: ""
+---
