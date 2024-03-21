@@ -65,7 +65,7 @@ const questions = [
     {
         type: 'input',
         name: 'coverImage',
-        message: "What's the path to the cover image?",
+        message: "What's the path to the cover image? (will be prefixed assets/img/records)",
         validate(value) {
             if (value) {
                 return true;
@@ -114,7 +114,7 @@ const questions = [
     {
         type: 'number',
         name: 'score',
-        message: 'What score did this album get?',
+        message: 'What score did this album get? (eg. 73)',
         validate(value) {
             const valid = !isNaN(parseFloat(value));
             return valid || 'Please enter a valid number';
