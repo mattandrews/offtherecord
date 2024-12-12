@@ -42,7 +42,7 @@ jobs:
 
       - name: Deploy code to server
         run: |
-          rsync -azrP --exclude='.*' --delete-after --delete-excluded ./_site $SSH_HOST_NAME:$APP_CWD
+          rsync -azrP --exclude='.*' --delete-after --delete-excluded ./_site/ $SSH_HOST_NAME:$APP_CWD
           rsync -azrP  ./conf $SSH_HOST_NAME:$APP_CWD
 
       - name: Copy Nginx configuration
