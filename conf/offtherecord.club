@@ -1,0 +1,5 @@
+server {
+    server_name offtherecord.club www.offtherecord.club;
+    root /var/www/offtherecord.club;
+    index index.html;
+}

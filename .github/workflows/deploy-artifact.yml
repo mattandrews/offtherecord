@@ -1,0 +1,64 @@
+name: Deploy to VPS
+on: push
+
+env:
+  APP_CWD: /var/www/offtherecord.club
+  SSH_KEY: ~/.ssh/id_ed25519
+  SSH_HOST_NAME: hetzner
+  
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up SSH key
+        run: |
+          env
+          mkdir -p ~/.ssh
+          echo "${{ secrets.ARTIFACT_SSH_KEY }}" > ${{ env.SSH_KEY }}
+          chmod 600 ${{ env.SSH_KEY }}
+          ssh-keyscan -p 22 -t ed25519 ${{ secrets.ARTIFACT_HOST }} >> ~/.ssh/known_hosts
+          cat >>~/.ssh/config <<END
+          Host ${{ env.SSH_HOST_NAME }}
+            HostName ${{ secrets.ARTIFACT_HOST }}
+            User ${{ secrets.ARTIFACT_USERNAME }}
+            IdentityFile ${{ env.SSH_KEY }}
+            StrictHostKeyChecking no
+          END
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        with:
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Deploy code to server
+        run: |
+          rsync -azrP --exclude='.*' --delete-after --delete-excluded ./_site $SSH_HOST_NAME:$APP_CWD
+          rsync -azrP  ./conf $SSH_HOST_NAME:$APP_CWD
+
+      - name: Copy Nginx configuration
+        run: |
+          echo "Copying nginx config file"
+          ssh $SSH_HOST_NAME "sudo cp $APP_CWD/conf/offtherecord.club /etc/nginx/sites-enabled"
+          echo "Nginx config file copied."
+
+      - name: Check Nginx configuration
+        run: |
+          echo "Checking nginx config"
+          ssh $SSH_HOST_NAME "sudo /usr/sbin/nginx -t 2>&1"
+          echo "Nginx configuration check completed."
+
+      - name: Restart Nginx service
+        if: success()
+        run: |
+          ssh $SSH_HOST_NAME "sudo /bin/systemctl restart nginx"
+          echo "Nginx service restarted successfully"
