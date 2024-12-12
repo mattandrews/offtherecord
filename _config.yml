@@ -53,6 +53,7 @@ exclude:
   - package.json
   - spec
   - tmp
+  - vendor/bundle/
 
 permalink: /:year/:month/:title.html
 
