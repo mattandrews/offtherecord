@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.0)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
     htmlbeautifier (1.4.3)
     htmlcompressor (0.4.0)
@@ -63,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (< 1.17.0)
   jekyll (= 3.8.7)
   jekyll-feed (~> 0.6)
   jekyll-tidy (~> 0.2)
